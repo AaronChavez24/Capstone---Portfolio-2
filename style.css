@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Droid Serif';font-size: 50px;
+}
+
+.sub{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.imgg{
+    border-radius: 50% ;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
